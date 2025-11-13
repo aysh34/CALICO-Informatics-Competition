@@ -5,3 +5,5 @@ This repository is for my participation in the CALICO (Computer Algorithms and L
 
 ## About CALICO
 CALICO is a programming competition that tests algorithmic problem-solving skills, data structures knowledge, and coding proficiency across various difficulty levels.
+
+![](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025/blob/main/Screenshot%202025-11-11%20135941.png)
