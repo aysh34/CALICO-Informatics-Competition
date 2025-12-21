@@ -13,4 +13,4 @@ This repository is for my participation in the CALICO (Computer Algorithms and L
 ![](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025/blob/main/Screenshot%202025-11-11%20140026.png)
 -->
 
-![](https://github.com/aysh34/CALICO-Informatics-Competition-Fall-2025/blob/main/Calico-2024.jpg)
+![](https://github.com/aysh34/CALICO-Informatics-Competition/blob/main/cal.jpg)
